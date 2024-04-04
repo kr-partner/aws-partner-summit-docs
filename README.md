@@ -56,16 +56,29 @@ AWS Partner Summit 2024 핸즈온 실습 가이드 문서
 
 - [Projects & workspaces] 가 보이는 Console에서 "4_Drift_sg" 클릭 
 
+![alt text](images/notification_setting1.png)
+
 - 좌측의 [Settings] 클릭
 
-- 좌측의 [Notifications] 클릭
+![alt text](images/notification_setting2.png)
 
+- 좌측의 [Notifications] 클릭
 - [Notifications] 탭에서 "workspace_notification_sg" 클릭
+
+![alt text](images/notification_setting3.png)
 
 - 중앙의 [Edit Notification] 클릭
 
+![alt text](images/notification_setting4.png)
+
 - [Email Addresses] 에 자신의 이메일정보를 기입하고 "Add" 클릭
+
+![alt text](images/notification_setting5.png)
 
 - [Email Recipients] 에 자신이 기입한 이메일정보가 등록되었는지 확인
 
+![alt text](images/notification_setting6.png)
+
 - 최하단의 "Update notification" 클릭
+
+![alt text](images/notification_setting7.png)
