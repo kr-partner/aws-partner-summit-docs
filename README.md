@@ -71,7 +71,8 @@ AWS Partner Summit 2024 핸즈온 실습 가이드 문서
 
 ![alt text](images/notification_setting4.png)
 
-- [Email Addresses] 에 자신의 이메일정보를 기입하고 "Add" 클릭
+- [Email Addresses] 에 `자신의 이메일정보`를 기입하고 "Add" 클릭
+- 예시) hashicorp@gmail.com
 
 ![alt text](images/notification_setting5.png)
 
